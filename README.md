@@ -1,7 +1,7 @@
 # About Me
 
-I write code. Mostly systems stuff — C, Go, Java, C++. I also know Python, JavaScript, C#, and Lua when I need them.
+Developer focused on systems programming and backend tooling. I work across C, C++, Go, Java, C#, Python, JavaScript, and Lua depending on what the project needs.
 
-I like building things that actually do something. CLI tools, network utilities, that kind of thing. Not really into frameworks or anything that abstracts too much away.
+Most of my work sits close to the metal — network analyzers, port scanners, CLI utilities, REST APIs. I prefer building lean, purpose-built tools over reaching for heavy abstractions.
 
-Still learning, but I pick things up fast.
+Currently expanding my skillset and taking on more complex projects.
