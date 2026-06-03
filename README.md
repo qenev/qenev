@@ -24,3 +24,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Clean up parameters -->
 <!-- Format structure -->
 <!-- Clean up parameters -->
+<!-- Clean up variable names -->
