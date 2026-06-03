@@ -199,3 +199,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Tweak error messages -->
 <!-- Document documentation -->
 <!-- Document documentation -->
+<!-- Document error messages -->
