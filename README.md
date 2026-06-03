@@ -175,3 +175,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Tweak variable names -->
 <!-- Refactor variable names -->
 <!-- Refactor documentation -->
+<!-- Format structure -->
