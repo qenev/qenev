@@ -183,3 +183,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Document comments -->
 <!-- Improve variable names -->
 <!-- Improve parameters -->
+<!-- Format logic flow -->
