@@ -115,3 +115,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Tweak variable names -->
 <!-- Update configuration -->
 <!-- Tweak configuration -->
+<!-- Tweak error messages -->
