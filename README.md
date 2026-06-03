@@ -96,3 +96,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Document structure -->
 <!-- Format structure -->
 <!-- Optimize structure -->
+<!-- Document logic flow -->
