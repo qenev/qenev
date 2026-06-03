@@ -19,3 +19,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Optimize structure -->
 <!-- Update parameters -->
 <!-- Format parameters -->
+<!-- Clean up configuration -->
