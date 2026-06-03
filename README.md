@@ -79,3 +79,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Improve documentation -->
 <!-- Document error messages -->
 <!-- Update documentation -->
+<!-- Improve structure -->
