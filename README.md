@@ -213,3 +213,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Refactor configuration -->
 <!-- Improve parameters -->
 <!-- Clean up logic flow -->
+<!-- Format structure -->
