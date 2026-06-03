@@ -198,3 +198,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Tweak structure -->
 <!-- Tweak error messages -->
 <!-- Document documentation -->
+<!-- Document documentation -->
