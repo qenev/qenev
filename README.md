@@ -28,3 +28,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Document error messages -->
 <!-- Update structure -->
 <!-- Document logic flow -->
+<!-- Optimize error messages -->
