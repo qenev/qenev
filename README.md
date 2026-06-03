@@ -177,3 +177,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Refactor documentation -->
 <!-- Format structure -->
 <!-- Refactor error messages -->
+<!-- Improve comments -->
