@@ -55,3 +55,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Document configuration -->
 <!-- Document parameters -->
 <!-- Improve configuration -->
+<!-- Clean up logic flow -->
