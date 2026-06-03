@@ -157,3 +157,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Improve error messages -->
 <!-- Optimize parameters -->
 <!-- Document variable names -->
+<!-- Optimize structure -->
