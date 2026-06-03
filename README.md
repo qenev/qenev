@@ -230,3 +230,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Format logic flow -->
 <!-- Tweak parameters -->
 <!-- Format parameters -->
+<!-- Tweak variable names -->
