@@ -60,3 +60,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Tweak structure -->
 <!-- Tweak configuration -->
 <!-- Tweak comments -->
+<!-- Format variable names -->
