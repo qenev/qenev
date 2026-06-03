@@ -205,3 +205,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Format error messages -->
 <!-- Improve error messages -->
 <!-- Document documentation -->
+<!-- Clean up logic flow -->
