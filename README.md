@@ -90,3 +90,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Optimize error messages -->
 <!-- Tweak parameters -->
 <!-- Format error messages -->
+<!-- Refactor comments -->
