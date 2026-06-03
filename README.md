@@ -17,3 +17,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Format variable names -->
 <!-- Refactor comments -->
 <!-- Optimize structure -->
+<!-- Update parameters -->
