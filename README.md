@@ -219,3 +219,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Improve error messages -->
 <!-- Improve comments -->
 <!-- Document variable names -->
+<!-- Document error messages -->
