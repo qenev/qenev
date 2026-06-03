@@ -99,3 +99,4 @@ Developer focused on systems programming and backend tooling. I work across C, C
 <!-- Document logic flow -->
 <!-- Document structure -->
 <!-- Optimize variable names -->
+<!-- Clean up structure -->
