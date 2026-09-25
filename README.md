@@ -1,5 +1,6 @@
 # About Me:
-Developer focused on systems programming and backend tooling. I work across C, C++, Go, Java, C#, Python, JavaScript, and Lua.
+I like C, C++, Go, Java, C#, Python, JavaScript, and Lua
+
 
 
 # 💻 Tech Stack:
